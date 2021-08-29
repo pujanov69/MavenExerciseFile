@@ -1,4 +1,3 @@
-package no_build_tool.model;
 
 import java.util.ArrayList;
 import java.util.Arrays;
